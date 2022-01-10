@@ -8,9 +8,6 @@ Sven von Werner
 **Interests**
 I am interested in new technologies in web development.
 
-**Birthplace**
-I was born in Wipperfürth.
-
 **Workplace**
 Mainz, Frankfurt, Remote
 
