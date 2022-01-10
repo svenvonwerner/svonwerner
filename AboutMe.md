@@ -1,6 +1,6 @@
 # About me
 
-## Generall Questiones
+## General Questions
 
 **Name**
 Sven von Werner
