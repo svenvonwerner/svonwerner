@@ -12,7 +12,7 @@ I am interested in new technologies in web development.
 Mainz, Frankfurt, Remote
 
 **Birthplace**
-Wipperfürth
+Wipperfürth 
 
 ## Hobbies
 1. piano
