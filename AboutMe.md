@@ -17,3 +17,7 @@ Wipperfürth
 ## Hobbies
 1. piano
 2. fencing
+
+## Contact
+[LinkedIn]
+
