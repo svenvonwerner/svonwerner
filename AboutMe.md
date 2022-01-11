@@ -18,8 +18,7 @@ Wipperfürth
 1. piano
 2. fencing
 
-## Contact
-[GitHub Pages](https://pages.github.com/).
+
 
 
 
